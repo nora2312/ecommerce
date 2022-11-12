@@ -1,0 +1,2 @@
+file:src/main/resources/Ecommerce_Features/F06_HomeSliders.feature:4:9
+file:src/main/resources/Ecommerce_Features/F07_FollowsUs.feature:12

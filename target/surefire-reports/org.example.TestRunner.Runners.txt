@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: org.example.TestRunner.Runners
+-------------------------------------------------------------------------------
+Tests run: 19, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 233.992 s <<< FAILURE! - in org.example.TestRunner.Runners
+org.example.TestRunner.Runners.runScenario  Time elapsed: 6.424 s  <<< FAILURE!
+java.lang.AssertionError: Assertion 1st slider fail expected [https://demo.nopcommerce.com/nokia-lumia-1020] but found [https://demo.nopcommerce.com/]
+
+org.example.TestRunner.Runners.runScenario  Time elapsed: 37.949 s  <<< FAILURE!
+java.lang.AssertionError: Assertion 2nd slider fail expected [https://demo.nopcommerce.com/iphone-6] but found [https://demo.nopcommerce.com/]
+
+org.example.TestRunner.Runners.runScenario  Time elapsed: 16.569 s  <<< FAILURE!
+java.lang.AssertionError: Assertion rss fail expected [https://demo.nopcommerce.com/new-online-store-is-open] but found [https://demo.nopcommerce.com/news/rss/1]
+

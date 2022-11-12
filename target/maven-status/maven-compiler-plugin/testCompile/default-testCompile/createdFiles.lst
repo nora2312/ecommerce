@@ -1,0 +1,13 @@
+org\example\StepDefs\D08_wislistStepDef.class
+org\example\TestRunner\Runners.class
+org\example\StepDefs\D01_registerStepDef.class
+org\example\StepDefs\D03_currencyStepDef.class
+org\example\StepDefs\D06_homeSlidersStepDef.class
+org\example\StepDefs\Hooks.class
+org\example\StepDefs\D04_searchStepDef.class
+org\example\Pages\P03_Home.class
+org\example\StepDefs\D02_loginStepDef.class
+org\example\StepDefs\D05_hoverCategoriesStepDef.class
+org\example\Pages\P01_Register.class
+org\example\Pages\P02_Login.class
+org\example\StepDefs\D07_followUsStepDef.class
